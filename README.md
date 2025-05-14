@@ -1,16 +1,27 @@
-## Hi there 👋
+# **Hey there!** 👋 I'm **Yochna Rao**  
 
-<!--
-**yochna/Yochna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer** | 🌱 **Learning Frontend & Backend** | ✨ **Open to Collaborations**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠️ Tech Stack**  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Tools**: Git, GitHub, VS Code  
+---
+
+### **📂 Featured Projects**  
+🔹 **[Website Project](https://github.com/YechnaRao/website)** – 
+🔹 **[Poems Collection](https://github.com/YechnaRao/poems)** – Creative writing with styling 
+🔹 **[CodeBoosters Internship](https://github.com/YechnaRao/CODEBOOSTERS-INTERNSHIP)** – HTML
+
+---
+
+
+### **📬 Let's Connect!**  
+- **LinkedIn**: https://www.linkedin.com/in/b-yochna-rao-6ab964285/
+- **Email**: raoyochna07@gmail.com
+
+
+
+### **⚡ Fun Fact**  
+"I love writing poems and coding creative websites!" 🎨  
