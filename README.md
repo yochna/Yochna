@@ -10,9 +10,9 @@
 ---
 
 ### **📂 Featured Projects**  
-🔹 **[Website Project](https://github.com/YechnaRao/website)** – 
-🔹 **[Poems Collection](https://github.com/YechnaRao/poems)** – Creative writing with styling 
-🔹 **[CodeBoosters Internship](https://github.com/YechnaRao/CODEBOOSTERS-INTERNSHIP)** – HTML
+🔹 https://github.com/yochna/website.git
+🔹 https://github.com/yochna/poems.git
+🔹 https://github.com/yochna/CODEBOOSTERS-INTERNSHIP.git
 
 ---
 
